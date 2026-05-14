@@ -1,4 +1,4 @@
-
+Enhance Raycast for macOS with Raycast for macOS vip Helper - menu-bar-customization and clipboard-manager, the #1 helper. Includes menu-bar-customization and clipboard-manager
 
 
 
